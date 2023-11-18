@@ -1,2 +1,2 @@
 # DIno-GAME
-My fifth project
+![Гифка](https://github.com/AlexBirin/DIno-GAME/blob/main/giphy.gif)
